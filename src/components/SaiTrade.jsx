@@ -21,7 +21,7 @@ const SaiTrade = () => {
                 </div>
 
                 <div className="bg-blue-600 bg-opacity-70 p-2 rounded mb-4 max-w-[450px] mx-auto group hover:opacity-70 transition-all duration-300">
-                    <a href='https://t.me/+Ak9_i0uQxytiYmU9' target='_blank' className="text-lg hover:text-blue-900 group-hover:underline transition-all duration-300 group-hover:underline-offset-4">SANGWAN TRADING</a>
+                    <a href='https://t.me/+Ak9_i0uQxytiYmU9' target='_blank' className="text-lg hover:text-blue-900 group-hover:underline transition-all duration-300 group-hover:underline-offset-4">Sai TRADING</a>
                 </div>
 
                 <a href='https://t.me/+Ak9_i0uQxytiYmU9' className="bg-blue-500 hover:bg-blue-600 transition-all duration-300 mx-auto max-w-[450px] w-full text-white font-bold py-2 px-4 rounded flex items-center justify-center mb-4">
@@ -29,7 +29,7 @@ const SaiTrade = () => {
                 </a>
 
                 <a href='https://t.me/+Ak9_i0uQxytiYmU9' className="text-sm mb-2 underline underline-offset-4 block hover:text-yellow-600 transition-all duration-300">
-                    🏆TRADE WITH SANGWAN TRADING🏆 💎VIP SESSION BENEFITS💎 📊99% ACCURACY📊 💰LOSS RECOVERY💰
+                    🏆TRADE WITH Sai TRADING🏆 💎VIP SESSION BENEFITS💎 📊99% ACCURACY📊 💰LOSS RECOVERY💰
                 </a>
                 <a href='https://t.me/+Ak9_i0uQxytiYmU9' className="text-sm md:mb-4 mb-2 underline underline-offset-2 block  hover:text-yellow-600 transition-all duration-300">DAILY 10 TO 15 SURESHOT SIGNALS. Join Now For Free</a>
 
